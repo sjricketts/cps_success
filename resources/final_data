@@ -1,0 +1,504 @@
+,School_ID,Long_Name,Student_Attendance_Year_1_Pct,Suspensions_Per_100_Students_Year_1_Pct,Teacher_Attendance_Year_1_Pct
+0,610229,A.N. Pritzker School,94.8,3.4,93.1
+1,610038,Abraham Lincoln Elementary School,95.8,0.1,95.5
+2,610281,Adam Clayton Powell Paideia Community Academy ES,94.5,7.1,95.2
+3,610185,Adlai E Stevenson Elementary School,95.3,1.1,94.3
+4,609993,Agustin Lara Elementary Academy,95.4,0.4,96.3
+5,610513,Air Force Academy High School,89.3,12.9,94.8
+6,610334,Al Raby High School,85.2,50.3,95.3
+7,610212,Albany Park Multicultural Academy,96.7,1.8,94.4
+8,609720,Albert G Lane Technical High School,94.4,1.2,95.4
+9,610342,Albert R Sabin Elementary Magnet School,93.8,11.8,94.2
+10,610209,Alessandro Volta Elementary School,95.9,0.9,94.0
+11,609808,Alex Haley Elementary Academy,95.7,1.9,94.4
+12,609799,Alexander Graham Bell Elementary School,95.5,0.7,95.0
+13,609947,Alexander Graham Elementary School,92.7,10.4,95.1
+14,609963,Alexander Hamilton Elementary School,95.7,1.3,95.2
+15,610098,Alfred Nobel Elementary School,94.3,6.3,95.4
+16,609788,Alice L Barnard Computer Math & Science Ctr ES,95.5,1.9,94.2
+17,610131,Ambrose Plamondon Elementary School,95.7,0.7,95.6
+18,610316,Amelia Earhart Options for Knowledge ES,96.2,0.4,94.9
+19,610339,Amos Alonzo Stagg Elementary School,96.0,5.4,95.2
+20,609837,Andrew Carnegie Elementary School,94.7,2.0,94.4
+21,610060,Andrew Jackson Elementary Language Academy,97.7,0.2,96.0
+22,609869,Anna R. Langford Community Academy,93.1,1.3,94.2
+23,610084,Annie Keller Regional Gifted Center,97.3,0.0,95.0
+24,609951,Ariel Elementary Community Academy,94.9,5.2,95.0
+25,610171,Arnold Mireles Elementary Academy,93.2,5.4,95.6
+26,610037,Arthur A Libby Elementary School,95.4,5.5,95.2
+27,609887,Arthur Dixon Elementary School,95.7,3.8,95.2
+28,609836,Arthur E Canty Elementary School,95.2,0.0,95.2
+29,610268,Arthur R Ashe Elementary School,92.5,5.9,94.3
+30,609941,Asa Philip Randolph Elementary School,94.8,17.0,94.9
+31,610287,Ashburn Community Elementary School,94.5,3.2,96.2
+32,609820,Augustus H Burley Elementary School,96.1,1.0,97.4
+33,610518,Austin College and Career Academy High School,85.6,15.8,95.2
+34,609786,Avalon Park Elementary School,95.1,2.8,94.7
+35,610325,Avondale-Logandale Elementary School,95.2,3.0,94.5
+36,610563,Back of the Yards IB HS,94.1,4.0,96.2
+37,609922,Belmont-Cragin Elementary School,95.4,0.9,95.0
+38,609764,Benito Juarez Community Academy High School,86.0,7.8,95.2
+39,610290,Benjamin E Mays Elementary Academy,91.5,3.2,95.8
+40,610076,Bernhard Moos Elementary School,94.4,0.4,94.6
+41,610175,Beulah Shoesmith Elementary School,95.2,2.2,96.0
+42,610323,Bowen High School,82.2,23.5,94.2
+43,609969,Bret Harte Elementary School,95.6,12.0,95.8
+44,610106,Brian Piccolo Elementary Specialty School,96.0,0.8,95.9
+45,610317,Brighton Park Elementary School,94.7,2.9,95.2
+46,610381,Bronzeville Scholastic Academy High School,89.1,46.4,94.4
+47,609821,Burnham Elementary Inclusive Academy,94.2,1.3,94.5
+48,609827,Burnside Elementary Scholastic Academy,95.7,3.4,94.7
+49,610353,Calmeca Academy of Fine Arts and Dual Language,95.6,0.4,95.1
+50,609729,Carl Schurz High School,82.3,7.3,95.1
+51,610039,Carl von Linne Elementary School,96.1,0.0,96.8
+52,610238,Carrie Jacobs Bond Elementary School,93.8,9.1,93.8
+53,609839,Carroll-Rosenwald Specialty Elementary School,95.0,1.8,94.6
+54,610345,Carter G Woodson South Elementary School,93.3,5.0,94.0
+55,610148,Cesar E Chavez Multicultural Academic Center ES,96.5,1.4,95.1
+56,609679,Charles Allen Prosser Career Academy High School,88.6,3.2,94.0
+57,610005,Charles Evans Hughes Elementary School,94.9,0.7,95.0
+58,609966,Charles G Hammond Elementary School,94.9,0.0,93.5
+59,609879,Charles Gates Dawes Elementary School,95.4,2.2,93.3
+60,610366,Charles H Wacker Elementary School,96.2,3.5,93.6
+61,610030,Charles Kozminski Elementary Community Academy,94.0,8.8,96.8
+62,609996,Charles N Holden Elementary School,95.4,1.2,95.6
+63,609833,Charles P Caldwell Academy of Math & Science ES,93.2,0.4,96.5
+64,609732,Charles P Steinmetz College Preparatory HS,86.6,12.2,94.7
+65,609875,Charles R Darwin Elementary School,96.2,1.9,95.8
+66,609986,Charles R Henderson Elementary School,93.4,2.3,96.4
+67,609813,Charles S Brownell Elementary School,95.2,6.3,90.6
+68,609883,Charles S Deneen Elementary School,93.5,26.0,95.4
+69,610194,Charles Sumner  Math & Science Community Acad ES,95.2,1.6,96.6
+70,609897,Charles W Earle Elementary School,93.2,5.5,94.0
+71,610248,Chicago Academy Elementary School,96.0,0.0,94.8
+72,610340,Chicago Academy High School,92.4,6.9,94.7
+73,609753,Chicago High School for Agricultural Sciences,93.8,3.1,94.0
+74,609754,Chicago Military Academy High School,91.8,17.9,96.8
+75,609674,Chicago Vocational Career Academy High School,83.7,20.9,94.2
+76,609899,Christian Ebinger Elementary School,95.4,0.4,95.6
+77,609705,Christian Fenger Academy High School,86.3,57.7,93.9
+78,609863,Christopher Columbus Elementary School,95.4,2.0,95.2
+79,609790,Clara Barton Elementary School,93.7,8.6,94.9
+80,610347,Claremont Academy Elementary School,94.5,12.8,93.8
+81,610499,Collins Academy High School,83.6,64.9,95.1
+82,610170,Columbia Explorers Elementary Academy,96.5,0.8,96.8
+83,609748,Consuella B York Alternative HS,96.9,0.0,93.7
+84,610004,Countee Cullen Elementary School,95.0,10.2,95.3
+85,609873,Crown Community Academy of Fine Arts Center ES,93.1,2.5,95.1
+86,610063,Cyrus H McCormick Elementary School,94.9,0.9,94.3
+87,609804,Daniel Boone Elementary School,95.8,0.0,95.2
+88,610380,Daniel Hale Williams Prep School of Medicine,87.0,22.0,95.1
+89,609870,Daniel J Corkery Elementary School,94.0,1.5,96.1
+90,609835,Daniel R Cameron Elementary School,94.7,2.9,95.8
+91,610223,Daniel S Wentworth Elementary School,94.1,3.7,96.0
+92,610221,Daniel Webster Elementary School,94.2,0.0,95.9
+93,609704,David G Farragut Career Academy High School,85.8,16.1,93.8
+94,610402,DeVry University Advantage Academy HS,95.6,0.0,96.3
+95,609859,DeWitt Clinton Elementary School,95.0,1.4,95.2
+96,609885,Dewey Elementary Academy of Fine Arts,95.9,1.2,96.5
+97,610077,Donald Morrill Math & Science Elementary School,94.1,0.0,95.9
+98,610198,Douglas Taylor Elementary School,95.0,6.6,93.6
+99,609751,Dr  Martin Luther King  Jr  College Prep HS,91.3,1.1,94.3
+100,610533,Dr Jorge Prieto Math and Science,94.9,1.9,95.2
+101,610299,Dr. Martin L. King Jr Academy of Social Justice,92.1,19.1,93.1
+102,610188,Dunne Technology Academy,94.9,3.1,92.5
+103,610352,Durkin Park Elementary School,94.9,2.4,95.6
+104,610254,Dvorak Technology Academy,95.2,11.5,97.0
+105,610132,Edgar Allan Poe Elementary Classical School,97.5,0.0,92.7
+106,609901,Edgebrook Elementary School,95.9,0.0,96.1
+107,610523,Edison Park Elementary School,95.7,0.2,95.8
+108,609819,Edmond Burke Elementary School,93.2,2.8,95.3
+109,609815,Edward A Bouchet Math & Science Academy ES,93.4,19.9,95.8
+110,610246,Edward Beasley Elementary Magnet Academic Center,96.1,4.6,93.9
+111,609862,Edward Coles Elementary Language Academy,95.4,1.3,94.9
+112,610586,Edward E. Sadlowski Elementary School,94.4,0.0,95.6
+113,609909,Edward Everett Elementary School,96.0,2.0,96.0
+114,609904,Edward K Ellington Elementary School,96.4,1.5,95.1
+115,610006,Edward N Hurley Elementary School,95.6,0.0,94.8
+116,609735,Edward Tilden Career Community Academy HS,80.7,48.4,94.1
+117,610315,Edward White Elementary Career Academy,94.1,0.0,95.0
+118,609708,Edwin G. Foreman College and Career Academy,85.0,33.8,92.6
+119,610227,Eli Whitney Elementary School,94.9,1.0,93.7
+120,609852,Eliza Chappell Elementary School,94.8,8.6,96.6
+121,610195,Elizabeth H Sutherland Elementary School,95.9,3.5,94.4
+122,610235,Ella Flagg Young Elementary School,93.7,0.8,94.9
+123,609682,Ellen H Richards Career Academy High School,76.9,47.8,93.8
+124,610073,Ellen Mitchell Elementary School,95.7,1.3,97.1
+125,609712,Emil G Hirsch Metropolitan High School,80.2,23.0,93.8
+126,609973,Emiliano Zapata Elementary Academy,95.9,0.7,95.8
+127,610065,Emmett Louis Till Math and Science Academy,94.1,19.0,94.6
+128,610203,Enrico Tonti Elementary School,95.3,0.2,96.0
+129,610543,Eric Solorio Academy High School,94.1,3.8,96.3
+130,610137,Ernst Prussing Elementary School,94.9,1.6,94.4
+131,609908,Esmond Elementary School,93.6,7.0,94.0
+132,609918,Eugene Field Elementary School,95.1,1.0,95.0
+133,609874,Everett McKinley Dirksen Elementary School,95.4,0.1,93.8
+134,610319,Evergreen Academy Middle School,96.0,5.3,96.2
+135,610057,Fairfield Elementary Academy,93.9,16.8,94.9
+136,610541,Federico Garcia Lorca Elementary School,96.0,0.0,95.8
+137,610120,Ferdinand Peck Elementary School,95.5,0.2,95.9
+138,609917,Fernwood Elementary School,95.3,0.0,97.5
+139,610096,Florence Nightingale Elementary School,95.3,1.0,94.9
+140,609924,Fort Dearborn Elementary School,94.2,8.3,95.2
+141,609927,Foster Park Elementary School,94.6,3.2,93.9
+142,610067,Francis M McKay Elementary School,97.2,3.4,93.1
+143,610112,Francis W Parker Elementary Community Academy,93.9,8.5,94.8
+144,610215,Francisco I Madero Middle School,94.0,3.9,95.8
+145,609800,Frank I Bennett Elementary School,95.8,0.0,91.8
+146,609939,Frank L Gillespie Elementary School,92.9,0.4,93.7
+147,609958,Frank W Gunsaulus Elementary Scholastic Academy,97.3,0.1,96.8
+148,610144,Frank W Reilly Elementary School,95.8,2.5,94.7
+149,609926,Franklin Elementary Fine Arts Center,95.5,0.8,95.1
+150,610165,Franz Peter Schubert Elementary School,94.8,0.4,94.9
+151,610503,Frazier Prospective IB Magnet ES,94.9,5.4,94.7
+152,609854,Frederic Chopin Elementary School,92.4,3.7,93.9
+153,610245,Frederick A Douglass Academy High School,79.4,39.7,94.3
+154,609930,Frederick Funston Elementary School,95.0,3.7,94.7
+155,610010,Friedrich L. Jahn Elementary of the Fine Arts,94.2,1.2,94.0
+156,609737,Friedrich W von Steuben Metropolitan Science HS,92.8,3.3,94.9
+157,609709,Gage Park High School,91.5,9.5,95.9
+158,610009,Galileo Math & Science Scholastic Academy ES,95.7,0.0,96.0
+159,610293,Genevieve Melody Elementary School,95.4,0.4,95.7
+160,609779,George Armstrong International Studies ES,95.7,1.4,94.9
+161,610062,George B McClellan Elementary School,94.9,0.0,93.8
+162,610196,George B Swift Elementary Specialty School,95.6,0.3,94.6
+163,609849,George F Cassell Elementary School,93.1,1.0,94.4
+164,609761,George H Corliss High School,79.0,30.5,93.3
+165,610305,George Leland Elementary School,91.5,13.8,94.0
+166,610139,George M Pullman Elementary School,96.1,6.5,96.3
+167,610048,George Manierre Elementary School,94.3,0.3,94.0
+168,609795,George Rogers Clark Elementary School,95.7,10.8,95.1
+169,609900,George W Curtis Elementary School,94.3,4.5,95.9
+170,610202,George W Tilton Elementary School,92.6,13.7,95.7
+171,609760,George Washington Carver Military Academy HS,92.9,5.3,94.0
+172,609845,George Washington Carver Primary School,91.2,20.1,94.6
+173,610219,George Washington Elementary School,95.3,0.3,95.0
+174,609739,George Washington High School,87.9,9.4,95.0
+175,609693,George Westinghouse College Prep,91.9,5.4,94.6
+176,609920,Gerald Delgado Kanoon Elementary Magnet School,94.2,2.1,95.5
+177,610383,Greater Lawndale High School For Social Justice,89.4,9.3,93.6
+178,609857,Grover Cleveland Elementary School,95.1,0.8,96.5
+179,609741,Gurdon S Hubbard High School,89.8,9.8,95.3
+180,609726,Gwendolyn Brooks College Preparatory Academy HS,91.4,4.1,94.0
+181,610182,Hannah G Solomon Elementary School,94.9,0.0,94.5
+182,610068,Hanson Park Elementary School,95.6,0.5,93.4
+183,610124,Harold Washington Elementary School,94.3,9.8,95.2
+184,610192,Harriet Beecher Stowe Elementary School,94.8,6.2,95.1
+185,610158,Harriet E Sayre Elementary Language Academy,94.2,2.2,95.5
+186,609974,Hawthorne Elementary Scholastic Academy,96.0,0.7,96.1
+187,609985,Helen M Hefferan Elementary School,94.1,2.3,95.8
+188,610122,Helen Peirce International Studies ES,95.6,1.1,95.9
+189,609972,Helge A Haugan Elementary School,94.9,2.0,93.3
+190,609856,Henry Clay Elementary School,93.1,0.8,94.4
+191,610040,Henry D Lloyd Elementary School,94.7,0.4,96.1
+192,610092,Henry H Nash Elementary School,95.2,3.8,94.6
+193,610279,Henry O Tanner Elementary School,92.7,4.8,95.4
+194,609861,Henry R Clissold Elementary School,94.5,1.8,95.8
+195,609798,Hiram H Belding Elementary School,94.8,0.2,94.9
+196,609768,Hope College Preparatory High School,83.7,32.3,90.8
+197,609850,Horace Greeley Elementary School,95.6,0.7,95.9
+198,610052,Horace Mann Elementary School,95.4,35.7,95.5
+199,609713,Hyde Park Academy High School,86.3,21.1,93.7
+200,610390,Hyman G Rickover Naval Academy High School,90.3,8.6,94.2
+201,610110,Ida B Wells Preparatory Elementary Academy,94.0,28.9,94.2
+202,610384,Infinity Math Science and Technology High School,92.8,0.5,95.5
+203,610078,Inter-American Elementary Magnet School,95.7,0.3,94.2
+204,609848,Ira F Aldridge Elementary School,93.5,8.9,93.0
+205,610532,Irene C. Hernandez Middle School for the Advancement of Science,94.1,3.3,93.9
+206,610125,Irma C Ruiz Elementary School,92.7,1.3,93.4
+207,610276,Irvin C Mollison Elementary School,92.7,3.8,94.4
+208,610103,Isabelle C O'Keeffe Elementary School,93.9,6.4,95.6
+209,610256,Jackie Robinson Elementary School,93.6,0.8,92.5
+210,609797,Jacob Beidler Elementary School,94.8,3.0,93.9
+211,609766,Jacqueline B Vaughn Occupational High School,86.1,8.4,95.0
+212,609912,James B Farnsworth Elementary School,93.8,0.5,94.6
+213,610070,James B McPherson Elementary School,95.6,1.1,94.5
+214,610066,James E McDade Elementary Classical School,96.7,0.0,94.2
+215,609803,James G Blaine Elementary School,96.1,0.9,95.1
+216,609983,James Hedges Elementary School,95.8,0.4,94.8
+217,610047,James Madison Elementary School,94.5,6.3,95.4
+218,610074,James Monroe Elementary School,96.0,2.6,94.7
+219,610200,James N Thorp Elementary School,93.3,9.3,94.3
+220,610107,James Otis Elementary School,93.6,0.6,94.5
+221,609891,James R Doolittle Jr Elementary School,92.1,9.0,95.5
+222,610044,James Russell Lowell Elementary School,94.0,0.8,94.1
+223,610174,James Shields Elementary School,95.5,1.1,93.9
+224,610559,James Shields Middle School,95.0,3.5,94.1
+225,610213,James Wadsworth Elementary School,95.9,1.0,95.2
+226,610217,James Ward Elementary School,98.2,0.9,94.8
+227,610274,James Weldon Johnson Elementary School,95.6,2.3,95.8
+228,610093,Jane A Neil Elementary School,89.4,0.4,94.6
+229,609772,Jane Addams Elementary School,95.2,0.0,94.0
+230,609796,Jean Baptiste Beaubien Elementary School,95.0,3.7,94.7
+231,610271,Jensen Elementary Scholastic Academy,93.8,7.1,93.8
+232,609943,Jesse Owens Elementary Community Academy,92.1,9.3,91.2
+233,610173,Jesse Sherwood Elementary School,96.1,0.9,96.3
+234,609942,Johann W von Goethe Elementary School,95.7,0.0,96.6
+235,610216,John A Walsh Elementary School,94.0,0.0,94.7
+236,609894,John B Drake Elementary School,92.3,7.3,94.6
+237,610089,John B Murphy Elementary School,95.3,2.2,95.7
+238,609789,John Barry Elementary School,94.9,0.1,94.5
+239,609829,John C Burroughs Elementary School,95.4,0.0,94.5
+240,609866,John C Coonley Elementary School,95.3,0.1,95.4
+241,609893,John C Dore Elementary School,94.3,1.1,95.1
+242,609959,John Charles Haines Elementary School,98.2,0.0,95.4
+243,610176,John D Shoop Math-Science Technical Academy ES,95.0,1.1,95.2
+244,609898,John F Eberhart Elementary School,95.0,3.3,94.1
+245,609718,John F Kennedy High School,87.9,4.9,94.7
+246,609919,John Fiske Elementary School,92.5,4.1,93.4
+247,610263,John Foster Dulles Elementary School,96.0,9.4,97.5
+248,610228,John Greenleaf Whittier Elementary School,95.4,0.0,93.9
+249,609964,John H Hamline Elementary School,92.7,6.3,95.3
+250,610026,John H Kinzie Elementary School,95.4,0.4,95.2
+251,610207,John H Vanderpoel Elementary Magnet School,95.9,0.4,92.6
+252,609694,John Hancock College Preparatory High School,92.4,4.9,95.2
+253,609971,John Harvard Elementary School of Excellence,96.1,4.4,96.5
+254,609975,John Hay Elementary Community Academy,93.9,6.9,94.7
+255,609782,John J Audubon Elementary School,95.6,0.9,95.6
+256,610126,John J Pershing Elementary Humanities Magnet,95.0,5.2,94.4
+257,610054,John L Marsh Elementary School,95.2,0.0,95.5
+258,609710,John M Harlan Community Academy High School,82.3,36.1,92.9
+259,610180,John M Smyth Elementary School,94.3,7.6,93.2
+260,609723,John Marshall Metropolitan High School,79.0,67.7,93.8
+261,609954,John Milton Gregory Elementary School,92.0,4.0,94.6
+262,610111,John Palmer Elementary School,94.7,4.0,94.8
+263,610184,John Spry Elementary Community School,93.5,3.1,95.2
+264,610269,John T McCutcheon Elementary School,95.0,6.8,95.0
+265,610130,John T Pirie Fine Arts & Academic Center ES,94.5,14.8,95.0
+266,609864,John W Cook Elementary School,92.4,4.5,93.0
+267,609937,John W Garvy Elementary School,95.3,1.0,96.3
+268,610225,John Whistler Elementary School,94.3,1.9,94.8
+269,610199,Johnnie Colemon Elementary Academy,95.6,3.5,94.2
+270,609828,Jonathan Burr Elementary School,96.5,0.2,96.5
+271,610159,Jonathan Y Scammon Elementary School,94.4,1.0,95.4
+272,609865,Jordan Elementary Community School,95.4,3.9,94.3
+273,610313,Jose De Diego Elementary Community Academy,91.5,9.7,94.4
+274,609950,Josefa Ortiz De Dominguez Elementary School,95.3,0.0,94.9
+275,610242,Joseph Brennemann Elementary School,97.5,1.2,96.7
+276,609938,Joseph E Gary Elementary School,95.2,1.2,95.9
+277,610015,Joseph Jungman Elementary School,95.0,0.4,94.8
+278,609925,Joseph Kellman Corporate Community ES,94.6,13.2,94.3
+279,610043,Joseph Lovett Elementary School,96.0,0.8,96.4
+280,610218,Joseph Warren Elementary School,93.4,13.2,95.1
+281,610041,Josephine C Locke Elementary School,94.9,1.4,93.6
+282,610019,Joshua D Kershaw Elementary School,96.0,1.1,94.2
+283,610129,Josiah Pickard Elementary School,96.3,0.0,96.3
+284,610022,Joyce Kilmer Elementary School,94.6,0.1,94.6
+285,610000,Julia Ward Howe Elementary School of Excellence,95.7,5.2,95.0
+286,610016,Kate S Kellogg Elementary School,96.2,0.0,94.7
+287,609716,Kelvyn Park High School,84.6,30.3,93.0
+288,609746,Kenwood Academy High School,92.9,15.8,95.2
+289,610033,LaSalle Elementary Language Academy,95.7,2.1,96.0
+290,610520,LaSalle II Magnet Elementary School,95.0,0.0,94.8
+291,609719,Lake View High School,89.4,6.2,95.7
+292,610368,Langston Hughes Elementary School,92.8,3.1,94.6
+293,609910,Laughlin Falconer Elementary School,95.2,0.5,95.1
+294,610133,Laura S Ward Elementary School,91.1,18.3,93.4
+295,610034,Lawndale Elementary Community Academy,94.0,3.8,93.3
+296,610024,Lazaro Cardenas Elementary School,95.7,0.2,96.9
+297,609907,Leif Ericson Elementary Scholastic Academy,94.6,0.7,94.0
+298,610298,Lenart Elementary Regional Gifted Center,96.9,0.0,95.3
+299,610036,Leslie Lewis Elementary School,95.8,4.0,96.5
+300,609793,Lillian R. Nicholson STEM Academy,94.1,6.2,93.7
+301,609738,Lincoln Park High School,90.2,2.0,95.1
+302,609807,Lionel Hampton Fine & Performing Arts ES,93.6,7.1,94.2
+303,609834,Little Village Elementary School,95.2,0.4,94.9
+304,609809,Lorenz Brentano Math & Science Academy ES,94.7,3.0,96.9
+305,609773,Louis A Agassiz Elementary School,94.8,4.4,96.2
+306,610094,Louis Nettelhorst Elementary School,95.0,1.2,95.3
+307,610117,Louis Pasteur Elementary School,94.7,0.1,94.4
+308,609774,Louisa May Alcott College Preparatory ES,95.0,0.2,94.8
+309,610237,Ludwig Van Beethoven Elementary School,91.3,8.8,92.1
+310,610108,Luke O'Toole Elementary School,95.2,0.3,93.4
+311,609818,Luther Burbank Elementary School,96.0,0.0,94.2
+312,609817,Lyman A Budlong Elementary School,96.0,0.3,95.1
+313,610369,Mahalia Jackson Elementary School,93.3,5.7,95.5
+314,610197,Mancel Talcott Elementary School,95.2,0.8,95.5
+315,609722,Manley Career Academy High School,73.9,55.0,92.5
+316,609872,Manuel Perez Elementary School,95.5,0.0,96.6
+317,610128,Marcus Moziah Garvey Elementary School,93.4,0.4,94.1
+318,610017,Maria Saucedo Elementary Scholastic Academy,95.3,0.6,94.5
+319,610544,Mariano Azuela Elementary School,94.8,0.5,94.6
+320,609756,Marie Sklodowska Curie Metropolitan High School,87.9,7.8,94.3
+321,609780,Marine Leadership Academy at Ames,94.2,6.4,96.3
+322,610081,Mark Sheridan Math & Science Academy,96.7,0.5,95.2
+323,610177,Mark Skinner Elementary School,97.6,0.5,93.9
+324,610206,Mark Twain Elementary School,95.7,0.5,95.3
+325,610053,Marquette Elementary School,95.7,5.3,96.9
+326,610152,Martha Ruggles Elementary School,94.3,2.2,95.5
+327,610539,Marvin Camras Elementary School,95.8,0.9,94.5
+328,610355,Mary E Courtenay Elementary Language Arts Center,94.6,0.9,95.8
+329,610312,Mary E McDowell Elementary School,96.9,0.0,95.3
+330,610127,Mary Gage Peterson Elementary School,95.3,2.9,95.6
+331,610046,Mary Lyon Elementary School,95.1,5.2,93.6
+332,609935,Matthew Gallistel Elementary Language Academy,95.0,2.0,94.4
+333,610362,Medgar Evers Elementary School,96.8,1.3,94.4
+334,609928,Melville W Fuller Elementary School,94.7,4.6,95.1
+335,610055,Michael Faraday Elementary School,93.9,13.9,94.5
+336,609832,Michael M Byrne Elementary School,94.2,1.1,94.5
+337,610244,Michele Clark Academic Prep Magnet High School,93.0,16.8,93.3
+338,610208,Mildred I Lavizzo Elementary School,96.6,1.1,94.3
+339,609830,Milton Brunson Math & Science Specialty ES,93.4,1.5,94.1
+340,610011,Minnie Mars Jamieson Elementary School,95.5,0.2,96.1
+341,609725,Morgan Park High School,86.1,13.8,94.8
+342,610257,Morton School of Excellence,94.9,6.3,95.9
+343,610082,Mount Greenwood Elementary School,95.9,0.4,96.1
+344,610086,Mount Vernon Elementary School,93.0,5.5,95.4
+345,610385,Multicultural Academy of Scholarship,84.4,10.6,94.9
+346,609806,Myra Bradwell Communications Arts & Sciences ES,92.0,58.3,94.4
+347,609960,Nathan Hale Elementary School,94.9,2.3,95.3
+348,609876,Nathan S Davis Elementary School,94.3,1.9,94.7
+349,609952,Nathanael Greene Elementary School,94.8,0.4,94.0
+350,610231,National Teachers Elementary Academy,95.9,7.2,96.8
+351,609692,Neal F Simeon Career Academy High School,89.4,28.0,93.9
+352,610284,New Field Elementary School,95.5,0.4,95.7
+353,609792,Newton Bateman Elementary School,95.6,0.7,95.8
+354,609730,Nicholas Senn High School,88.2,11.2,95.7
+355,609961,Ninos Heroes Elementary Academic Center,90.7,15.0,93.3
+356,609810,Norman A Bridge Elementary School,95.1,0.3,94.6
+357,610354,North River Elementary School,95.9,1.2,95.8
+358,609691,North-Grand High School,88.5,18.2,94.8
+359,609749,Northside College Preparatory High School,93.8,1.3,96.6
+360,609744,Northside Learning Center High School,91.9,1.4,94.1
+361,610051,Northwest Middle School,93.9,7.4,94.7
+362,610099,Norwood Park Elementary School,96.2,0.0,96.0
+363,610201,Ole A Thorp Elementary Scholastic Academy,96.2,0.7,94.5
+364,610300,Oliver S Westcott Elementary School,93.3,0.7,94.7
+365,609997,Oliver Wendell Holmes Elementary School,93.2,10.9,95.3
+366,610105,Oriole Park Elementary School,95.5,0.1,95.1
+367,610329,Orozco Fine Arts & Sciences Elementary School,96.1,2.7,94.6
+368,610389,Orr Academy High School,62.1,41.1,93.5
+369,609811,Orville T Bright Elementary School,95.5,4.0,94.7
+370,610367,Oscar DePriest Elementary School,95.0,0.7,92.7
+371,610059,Oscar Mayer Magnet School,95.0,1.9,95.6
+372,610021,Pablo Casals Elementary School,95.6,2.3,96.0
+373,610115,Park Manor Elementary School,95.8,5.6,96.4
+374,610116,Parkside Elementary Community Academy,95.1,0.0,97.2
+375,609988,Patrick Henry Elementary School,95.1,0.0,94.8
+376,610003,Paul Cuffe Math-Science Technology Academy ES,94.5,1.1,95.9
+377,609676,Paul Laurence Dunbar Career Academy High School,84.2,9.7,94.4
+378,610146,Paul Revere Elementary School,94.0,4.4,94.5
+379,610386,Peace & Education Coalition HS,85.5,4.9,96.0
+380,609762,Percy L Julian High School,81.6,29.6,90.1
+381,609791,Perkins Bass Elementary School,94.3,8.4,94.3
+382,610145,Peter A Reinberg Elementary School,94.6,0.2,94.6
+383,609867,Peter Cooper Elementary Dual Language Academy,95.7,0.0,95.5
+384,610147,Philip Rogers Elementary School,95.1,0.4,94.4
+385,609777,Phillip D Armour Elementary School,94.6,0.7,95.0
+386,610090,Phillip Murray Elementary Language Academy,95.7,4.1,95.3
+387,609981,Phoebe Apperson Hearst Elementary School,95.4,3.9,94.6
+388,610304,Phoenix Military Academy High School,95.6,4.4,95.7
+389,610013,Pilsen Elementary Community Academy,94.8,3.4,96.9
+390,610135,Portage Park Elementary School,94.9,0.6,94.9
+391,610138,Pulaski International School of Chicago,95.9,1.5,95.4
+392,609842,Rachel Carson Elementary School,96.2,3.0,96.4
+393,609902,Ralph H Metcalfe Elementary Community Academy,95.1,2.5,94.4
+394,610141,Ravenswood Elementary School,95.9,0.4,95.8
+395,609769,Ray Graham Training Center High School,86.3,0.0,92.7
+396,609903,Richard Edwards Elementary School,95.1,0.1,94.4
+397,610291,Richard Henry Lee Elementary School,94.6,0.2,94.7
+398,610239,Richard J Daley Elementary Academy,94.7,0.8,94.9
+399,610102,Richard J Oglesby Elementary School,94.0,2.4,94.5
+400,610561,Richard T Crane Medical Preparatory HS,90.5,9.2,96.3
+401,610234,Richard Yates Elementary School,94.3,3.2,95.1
+402,609695,Roald Amundsen High School,91.3,7.8,95.6
+403,610350,Robert A Black Magnet Elementary School,95.4,5.1,95.9
+404,609929,Robert Fulton Elementary School,94.7,6.8,94.5
+405,609979,Robert Healy Elementary School,96.6,7.0,95.4
+406,610588,Robert J. Richardson Middle School,94.8,1.7,95.4
+407,609956,Robert L Grimes Elementary School,95.8,0.9,95.8
+408,610391,Robert Lindblom Math & Science Academy HS,91.6,2.3,96.1
+409,610252,Robert Nathaniel Dett Elementary School,95.0,3.4,93.9
+410,609759,Roberto Clemente Community Academy High School,82.7,70.4,96.6
+411,610029,Rodolfo Lozano Bilingual & International Ctr ES,94.8,0.4,95.1
+412,609733,Roger C Sullivan High School,86.5,6.0,95.5
+413,610091,Ronald Brown Elementary Community Academy,95.4,11.1,94.5
+414,610282,Ronald E McNair Elementary School,96.0,6.8,97.3
+415,610056,Roswell B Mason Elementary School,94.1,4.1,95.0
+416,610250,Ruben Salazar Elementary Bilingual Center,95.0,0.6,96.5
+417,610027,Rudyard Kipling Elementary School,95.8,0.0,94.9
+418,609995,Rufus M Hitch Elementary School,95.4,0.7,95.7
+419,610548,STEM Magnet Academy,96.6,0.0,96.1
+420,609853,Salmon P Chase Elementary School,95.6,0.0,96.0
+421,610558,Sarah E. Goode STEM Academy,89.5,14.9,94.5
+422,610155,Sauganash Elementary School,95.7,0.0,95.6
+423,609805,Scott Joplin Elementary School,95.6,0.7,93.0
+424,609968,Sharon Christa McAuliffe Elementary School,94.8,3.8,96.0
+425,610157,Sidney Sawyer Elementary School,95.1,1.1,93.9
+426,609750,Simpson Academy HS for Young Women,53.2,8.3,94.1
+427,610521,Sir Miles Davis Magnet Elementary Academy,94.8,2.0,95.2
+428,610534,Skinner North,96.1,0.2,95.8
+429,610226,Socorro Sandoval Elementary School,95.8,0.0,93.2
+430,609990,South Loop Elementary School,96.1,1.8,95.2
+431,610530,South Shore Fine Arts Academy,94.1,5.4,95.1
+432,610547,South Shore Intl College Prep High School,90.1,7.2,94.5
+433,609745,Southside Occupational Academy High School,90.2,6.2,94.9
+434,610183,Spencer Technology Academy,93.4,25.5,94.9
+435,610357,Spry Community Links High School,87.4,6.3,96.7
+436,609880,Stephen Decatur Classical Elementary School,95.9,0.0,94.7
+437,609933,Stephen F Gale Elementary Community Academy,91.9,5.8,92.6
+438,609976,Stephen K Hayt Elementary School,94.7,2.1,96.1
+439,609724,Stephen T Mather High School,90.3,8.6,95.1
+440,610191,Stone Elementary Scholastic Academy,95.7,0.5,95.3
+441,610405,Suder Montessori Magnet ES,95.1,2.9,94.7
+442,610249,Talman Elementary School,96.1,0.2,95.7
+443,610396,Tarkington School of Excellence ES,95.4,5.8,95.8
+444,609921,Telpochcalli Elementary School,93.1,0.3,95.2
+445,609991,Theodore Herzl Elementary School,95.0,38.5,96.4
+446,609728,Theodore Roosevelt High School,86.9,13.3,94.7
+447,610178,Theophilus Schmid Elementary School,94.8,5.4,95.1
+448,609794,Thomas A Edison Regional Gifted Center ES,96.1,0.4,96.4
+449,609987,Thomas A Hendricks Elementary Community Academy,93.4,8.3,96.0
+450,609851,Thomas Chalmers Specialty Elementary School,96.2,33.9,95.2
+451,609896,Thomas Drummond Elementary School,95.0,0.0,93.9
+452,610002,Thomas Hoyne Elementary School,95.0,1.2,94.3
+453,610295,Thomas J Higgins Elementary Community Academy,94.3,8.0,93.9
+454,610220,Thomas J Waters Elementary School,95.0,0.0,93.8
+455,609715,Thomas Kelly College Preparatory,89.1,0.0,93.8
+456,609895,Turner-Drew Elementary Language Academy,96.5,6.7,94.0
+457,610394,Uplift Community High School,86.6,42.9,94.9
+458,609944,Virgil Grissom Elementary School,95.6,1.3,94.0
+459,610363,Walt Disney Magnet Elementary School,96.0,1.3,95.3
+460,610587,Walter Henri Dyett High School for the Arts,92.5,49.9,94.6
+461,610095,Walter L Newberry Math & Science Academy ES,95.0,3.2,96.0
+462,609680,Walter Payton College Preparatory High School,92.7,0.6,95.1
+463,609955,Walter Q Gresham Elementary School,96.1,17.1,96.1
+464,609855,Walter S Christopher Elementary School,84.7,0.3,94.3
+465,610179,Washington D Smyser Elementary School,93.7,2.4,95.3
+466,610121,Washington Irving Elementary School,93.9,1.5,93.8
+467,609740,Wells Community Academy High School,88.7,0.8,94.2
+468,610032,Wendell E Green Elementary School,96.0,1.9,94.0
+469,609727,Wendell Phillips Academy High School,80.4,57.9,93.6
+470,609978,Wendell Smith Elementary School,96.0,6.6,95.1
+471,610100,West Park Elementary Academy,93.5,18.1,94.7
+472,610542,West Ridge Elementary School,94.5,0.8,95.2
+473,609755,Whitney M Young Magnet High School,94.7,0.8,94.9
+474,610230,Wildwood IB World Magnet School,95.9,2.1,96.2
+475,610251,Willa Cather Elementary School,92.1,7.9,95.0
+476,610101,William B Ogden Elementary School,94.8,0.2,96.3
+477,610109,William Bishop Owen Scholastic Academy ES,95.9,1.5,92.2
+478,610143,William C Reavis Math & Science Specialty ES,94.4,1.6,94.9
+479,609945,William C. Goudy Technology Academy,95.4,1.4,95.7
+480,610364,William E B Dubois Elementary School,93.9,4.7,94.2
+481,609884,William E Dever Elementary School,94.3,3.3,94.9
+482,609967,William F Finkl Elementary School,93.3,1.0,95.1
+483,609994,William G Hibbard Elementary School,96.0,0.4,95.2
+484,609812,William H Brown Elementary School,93.3,3.1,93.7
+485,610136,William H Prescott Elementary School,95.6,0.0,96.5
+486,610142,William H Ray Elementary School,94.5,8.5,95.3
+487,610153,William H Ryder Math & Science Specialty ES,96.3,0.0,93.4
+488,610167,William H Seward Communication Arts Academy ES,95.6,0.3,95.3
+489,609734,William Howard Taft High School,89.3,0.6,94.8
+490,609698,William J Bogan High School,87.5,13.4,94.6
+491,610104,William J Onahan Elementary School,95.0,0.3,96.3
+492,609678,William Jones College Preparatory High School,92.3,1.1,95.3
+493,610193,William K New Sullivan Elementary School,91.8,4.0,93.2
+494,609949,William P Gray Elementary School,95.0,2.1,95.0
+495,610097,William P Nixon Elementary School,95.3,0.8,95.1
+496,610123,William Penn Elementary School,94.5,2.2,92.8
+497,609711,William Rainey Harper High School,81.0,107.6,95.2
+498,610172,William T Sherman Elementary School,95.9,11.1,94.5
+499,609844,William W Carter Elementary School,96.5,5.5,98.2
+500,610088,Wolfgang A Mozart Elementary School,95.4,4.7,95.5
+501,609977,Woodlawn Community Elementary School,94.8,0.0,93.8
+502,610392,World Language Academy High School,90.8,4.2,94.1
